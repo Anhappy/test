@@ -1,2 +1,2 @@
 # test
-Have a try!
+Have a try! Using GitHub first very exciting!
